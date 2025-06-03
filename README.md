@@ -6,6 +6,19 @@ Materials for "A New Era in Exoplanet Atmosphere Observation and Characterisatio
 Welcome to the official repository for the **Bad Honnef Summer School 2025** focused on *Exoplanet Atmosphere Observation and Characterisation*.  
 This summer school brings together leading experts and participants to explore the latest methods and research in observing and characterising the atmospheres of exoplanets, combining theoretical lectures with hands-on sessions.
 
+Date: Su, 20.07.2025  18:30  –    Fr, 25.07.2025  14:00
+Location: Physikzentrum Bad Honnef, Germany
+
+Invited lecturers and hands-on session tutors:
+**Dr. Eva-Maria Ahrer** (Max Planck Institute for Astronomy)
+**Dr. John Lee Grenfell** (German Aerospace Center)
+**Cyril Gapp** (Max Planck Institute for Astronomy)
+**Dr. Anjali Piette** (University of Birmingham)
+**Prof. Seth Redfield** (Wesleyan University)
+**Dr. Elyar Sedaghati** (European Southern Observatory)
+**Dr. Michael Zhang** (University of Chicago)
+**Kim Angelique Kahle** (Max Planck Institute for Astronomy)
+
 ## Contents
 
 - Lecture slides  
