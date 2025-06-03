@@ -9,14 +9,14 @@ This summer school brings together leading experts and participants to explore t
 Date: Su, 20.07.2025  18:30  –    Fr, 25.07.2025  14:00
 Location: Physikzentrum Bad Honnef, Germany
 
-Invited lecturers and hands-on session tutors:
-**Dr. Eva-Maria Ahrer** (Max Planck Institute for Astronomy)
-**Dr. John Lee Grenfell** (German Aerospace Center)
-**Cyril Gapp** (Max Planck Institute for Astronomy)
-**Dr. Anjali Piette** (University of Birmingham)
-**Prof. Seth Redfield** (Wesleyan University)
-**Dr. Elyar Sedaghati** (European Southern Observatory)
-**Dr. Michael Zhang** (University of Chicago)
+Invited lecturers and hands-on session tutors: <br />
+**Dr. Eva-Maria Ahrer** (Max Planck Institute for Astronomy) <br />
+**Dr. John Lee Grenfell** (German Aerospace Center) <br />
+**Cyril Gapp** (Max Planck Institute for Astronomy) <br />
+**Dr. Anjali Piette** (University of Birmingham) <br />
+**Prof. Seth Redfield** (Wesleyan University) <br />
+**Dr. Elyar Sedaghati** (European Southern Observatory) <br />
+**Dr. Michael Zhang** (University of Chicago) <br />
 **Kim Angelique Kahle** (Max Planck Institute for Astronomy)
 
 ## Contents
