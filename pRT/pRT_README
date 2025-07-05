@@ -4,9 +4,10 @@ This folder contains:
 
 How to setup collab-workbooks on google drive:
 Copy the notebooks into your "Colab Notebooks" folder
-Make a new folder BadHonnef2025/pRT/ and copy input_data_BH.zip there
+Run the pRT_tutorial_setup.ipynb notebook
 
 On your own PC:
-Copy notebooks and input_data_BH.zip on your pc
-Install petitRADTRANS ( https://petitradtrans.readthedocs.io/en/latest/content/installation.html )
-Set paths in the notebooks accordingly.
+Copy notebooks to your pc 
+Run the pRT_tutorial_setup.ipynb notebook
+  -Install petitRADTRANS ( https://petitradtrans.readthedocs.io/en/latest/content/installation.html) 
+  -Set paths in the notebooks accordingly.
