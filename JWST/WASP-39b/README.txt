@@ -1,0 +1,3 @@
+Stellar spectra from Carter & May et al. 2024: "A benchmark JWST near-infrared spectrum for the exoplanet WASP-39 b"
+
+Early Release Science Transiting Exoplanet Community observations of the Saturn-mass exoplanet WASP-39b data synthesis of the original releases in Ahrer et al. 2023 (NIRCam/F322W2), Alderson et al. 2023 (NIRSpec/G395H), Feinstein et al. 2023 (NIRISS/SOSS), Rustamkulov et al. 2023 (NIRSpec/PRISM)

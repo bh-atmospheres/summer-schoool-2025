@@ -1,0 +1,1 @@
+NIRSpec/G395H data (Tiberius reduction) from Kirk et al. 2025: BOWIE-ALIGN: JWST reveals hints of planetesimal accretion and complex sulphur chemistry in the atmosphere of the misaligned hot Jupiter WASP-15b
